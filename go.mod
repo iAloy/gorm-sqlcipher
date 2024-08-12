@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/iAloy/gorm-sqlcipher
 
 go 1.20
 
